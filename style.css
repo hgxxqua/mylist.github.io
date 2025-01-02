@@ -1,0 +1,48 @@
+body
+{
+background-color: rgb(16, 111, 206);
+text-align: center;
+}
+
+.todoapp
+{
+margin-left: 35% ;
+border-radius: 20px;
+background-color: rgb(255, 255, 255);
+text-align: center;
+width: 400px;
+height: 600px;
+text-size-adjust: 40px;
+margin-top: 35px;
+}
+
+#del
+{
+width: 15px;
+height: 15px;
+justify-content: center;
+margin-left: 5px;
+border: none;
+background-color: transparent;
+}
+
+.main-but-add
+{
+border: none;
+background-color: rgb(109, 255, 116);
+margin-top: 15px;
+text-shadow: black;
+color: white;
+font-size: 15px;
+}
+
+.main-but-del
+{
+    border: none;
+    background-color: rgb(255, 77, 77);
+    margin-top: 15px;
+    text-shadow: black;
+    color: white;
+    font-size: 15px;
+}
+
